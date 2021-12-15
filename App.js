@@ -20,7 +20,7 @@ export default function App() {
     options={{
       title:'Categories',
       headerTitleAlign:'center',
-      headerTintColor:'orange',
+      headerTintColor:'	#006400',
       headerTitleStyle: {
       fontWeight: 'bold',
       fontSize:26,
@@ -32,7 +32,7 @@ export default function App() {
     options={{
       title:'Meals',
       headerTitleAlign:'center',
-      headerTintColor:'orange',
+      headerTintColor:'#006400',
       headerTitleStyle: {
       fontWeight: 'bold',
       fontSize:26,
@@ -45,7 +45,7 @@ export default function App() {
      options={{
       title:'Detail',
       headerTitleAlign:'center',
-      headerTintColor:'orange',
+      headerTintColor:'#800000',
       headerTitleStyle: {
       fontWeight: 'bold',
       fontSize:26,

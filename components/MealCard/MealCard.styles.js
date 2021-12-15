@@ -18,7 +18,7 @@ export default StyleSheet.create({
     fontSize: 30,
     fontWeight: "bold",
     textAlign: "right",
-    backgroundColor: "#000000c0",
+    backgroundColor: "#000000",
     padding:15,
     fontFamily: "Cochin",
 

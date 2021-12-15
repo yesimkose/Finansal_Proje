@@ -19,7 +19,7 @@ export default StyleSheet.create({
     minHeight: 600,
   },
   title: {
-    color: "#8E0505",
+    color: "#6D0303",
     fontSize: 35,
     fontWeight: "bold",
     textAlign: "left",
@@ -31,7 +31,7 @@ export default StyleSheet.create({
   strArea: {
     padding: 5,
     fontSize: 23,
-    color: "#8E0505",
+    color: "#6D0303",
     marginLeft: 20,
     fontWeight: "bold",
     fontFamily: "Cochin",
