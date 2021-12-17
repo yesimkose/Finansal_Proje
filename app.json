@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Tarifka",
+    "name": "Recipes",
     "slug": "Tarifka",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -23,7 +23,9 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "versionCode": 1,
+      "package": "host.exp.recipes"
     },
     "web": {
       "favicon": "./assets/favicon.png"

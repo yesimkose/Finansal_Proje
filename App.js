@@ -20,11 +20,10 @@ export default function App() {
     options={{
       title:'Categories',
       headerTitleAlign:'center',
-      headerTintColor:'	#006400',
+      headerTintColor:'black',
       headerTitleStyle: {
       fontWeight: 'bold',
       fontSize:26,
-      fontFamily: "Cochin",
     }}}/>
     <Stack.Screen 
     name="MealsPage" 
@@ -32,11 +31,11 @@ export default function App() {
     options={{
       title:'Meals',
       headerTitleAlign:'center',
-      headerTintColor:'#006400',
+      headerTintColor:'black',
       headerTitleStyle: {
       fontWeight: 'bold',
       fontSize:26,
-      fontFamily: "Cochin",
+      
     }}}
     />
     <Stack.Screen
@@ -45,11 +44,11 @@ export default function App() {
      options={{
       title:'Detail',
       headerTitleAlign:'center',
-      headerTintColor:'#800000',
+      headerTintColor:'black',
       headerTitleStyle: {
       fontWeight: 'bold',
       fontSize:26,
-      fontFamily: "Cochin",
+      
     }}}/>
   </Stack.Navigator>
 </NavigationContainer>
