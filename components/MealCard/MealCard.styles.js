@@ -20,7 +20,6 @@ export default StyleSheet.create({
     textAlign: "right",
     backgroundColor: "#000000",
     padding:15,
-    fontFamily: "Cochin",
 
   }
 })

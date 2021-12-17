@@ -9,7 +9,7 @@ function CategoryCard({category,onSelect}) {
       <TouchableWithoutFeedback onPress={onSelect}>
       <View style={styles.container}>
         <View style={styles.body_container}>
-          <Image source={{uri:category.strCategoryThumb}} style={styles.image}/>
+          <Image source={{uri:category.strCategoryThumb}} style={styles.image } />
           <Text style={styles.title}>{category.strCategory}</Text>
           </View>
       </View>

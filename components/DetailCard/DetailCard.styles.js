@@ -25,7 +25,6 @@ export default StyleSheet.create({
     textAlign: "left",
     padding: 5,
     marginLeft: 20,
-    fontFamily: "Cochin",
     
   },
   strArea: {
@@ -34,7 +33,6 @@ export default StyleSheet.create({
     color: "#6D0303",
     marginLeft: 20,
     fontWeight: "bold",
-    fontFamily: "Cochin",
   },
   line: {
     borderBottomColor: "black",
@@ -43,7 +41,6 @@ export default StyleSheet.create({
   strInstructions: {
     padding: 10,
     margin: 5,
-    fontFamily: "Cochin",
     fontSize:18,
   },
 });
