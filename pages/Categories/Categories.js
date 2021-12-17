@@ -21,13 +21,13 @@ function Categories({ navigation }) {
     />
   );
 
-  if (error) {
-    return <Error />;
-  }
+  // if (error) {
+  //   return <Error />;
+  // }
 
-  if (loading) {
-    return <Loading />;
-  }
+  // if (loading) {
+  //   return <Loading />;
+  // }
   return (
     <FlatList
       keyExtractor={(item) => item.strCategory}

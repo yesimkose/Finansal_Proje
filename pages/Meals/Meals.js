@@ -20,13 +20,13 @@ function Meals({ route, navigation }) {
   const renderMeals = ({ item }) => (
     <MealCard meal={item} onPress={() => handleMealDetail(item.idMeal)} />
   );
-  if (error) {
-    return <Error />;
-  }
+  // if (error) {
+  //   return <Error />;
+  // }
 
-  if (loading) {
-    return <Loading />;
-  }
+  // if (loading) {
+  //   return <Loading />;
+  // }
   return (
     <FlatList
       keyExtractor={(item) => item.idMeal}

@@ -10,13 +10,13 @@ function Detail({ route }) {
   const { dataDetail, loading, error } = useDetail(idMeal);
 
   const renderDetail = ({ item }) => <DetailCard detail={item} />;
-  if (error) {
-    return <Error />;
-  }
+  // if (error) {
+  //   return <Error />;
+  // }
 
-  if (loading) {
-    return <Loading />;
-  }
+  // if (loading) {
+  //   return <Loading />;
+  // }
   return (
     <FlatList
       keyExtractor={(item) => item.idMeal}
