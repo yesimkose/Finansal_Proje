@@ -12,12 +12,12 @@ Clone the project to your computer.
 ## 📷 Screenshots
 
 <div style="display: flex; width: 1000px; justify-content: space-evenly;">
-  <img src="blob:https://web.whatsapp.com/29d1bd18-b9b1-4c96-9b13-77b508ffde3c" width="400px;" alt=""/>
-  <img src="blob:https://web.whatsapp.com/713abb32-b69d-4e91-9589-91dc14b4a530" width="400px;" alt=""/>
+  <img src="https://play-lh.googleusercontent.com/OPdTWq5l1zLnCos6OuJno7RQ84lKaEjqsUz2gAE3_u3xGGdwZfkLGsKevmWRE4wx=w1920-h969-rw" width="400px;" alt=""/>
+  <img src="https://play-lh.googleusercontent.com/EdMf-GdO6M0t8roE3vVaEDrlvAVX2b8WIBDTvPX6gbEijqnQhd_pkprpTFZ25YfESPc=w1920-h969-rw" width="400px;" alt=""/>
 </div>
 <div style="display: flex; width: 1000px; justify-content: space-evenly;">
-  <img src="blob:https://web.whatsapp.com/6f48f7d7-9271-44ae-9b35-a19458795593" width="400px;" alt=""/>
-  <img src="blob:https://web.whatsapp.com/2aadcb31-c33a-4843-aba3-10b491335ab4" width="400px;" alt=""/>
+  <img src="https://play-lh.googleusercontent.com/U_-k9_P5VGdaagBHc3leLHq8eyQaYODXva6o5H380RKLtZ5oQU__0OFIvmW48CsOWF4=w1920-h969-rw" width="400px;" alt=""/>
+  <img src="https://play-lh.googleusercontent.com/wJY86ElJnWuM4160w67ILYxqA7x58KfWOY4ck8KPUtRAtNAh_t0JhsE1xfNMqvFKkAQ=w1920-h969-rw" width="400px;" alt=""/>
 </div>
 
 ## 🎯 Contributors
