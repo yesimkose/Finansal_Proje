@@ -6,7 +6,7 @@ It is a recipes mobile application created using API. It includes dishes grouped
 
 Clone the project to your computer.
 ```
-> git clone https://github.com/yesimkose/Finansal_Proje.git
+git clone https://github.com/yesimkose/Finansal_Proje.git
 ```
 
 ## ⬇️ Install Mobile Application
@@ -14,7 +14,7 @@ Clone the project to your computer.
 You can download the project to your phone.
 
 ```
-> https://play.google.com/store/apps/details?id=host.exp.recipes
+https://play.google.com/store/apps/details?id=host.exp.recipes
 ```
 
 ## 📷 Screenshots
