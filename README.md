@@ -9,6 +9,14 @@ Clone the project to your computer.
 > git clone https://github.com/yesimkose/Finansal_Proje.git
 ```
 
+## ⚙️ Install Mobile Application
+
+You can download the project to your phone.
+
+```
+> https://play.google.com/store/apps/details?id=host.exp.recipes
+```
+
 ## 📷 Screenshots
 
 <div style="display: flex; width: 1000px; justify-content: space-evenly;">
