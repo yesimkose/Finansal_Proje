@@ -9,7 +9,7 @@ Clone the project to your computer.
 > git clone https://github.com/yesimkose/Finansal_Proje.git
 ```
 
-## ⚙️ Install Mobile Application
+## ⬇️ Install Mobile Application
 
 You can download the project to your phone.
 
