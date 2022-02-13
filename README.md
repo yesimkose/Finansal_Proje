@@ -9,6 +9,16 @@ Clone the project to your computer.
 git clone https://github.com/yesimkose/Finansal_Proje.git
 ```
 
+To download the missing part of the project
+```
+npm install
+```
+
+To get the project up and running
+```
+expo start
+```
+
 ## ⬇️ Install Mobile Application
 
 You can download the project to your phone.
